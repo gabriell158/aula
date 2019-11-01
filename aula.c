@@ -5,6 +5,7 @@ int main()
 	printf("Olá Mundo!\n");
 	printf("Carvalhoek\n");
 	printf("dinossauro\n");
+	printf("Ola, mundo!\n");
 <<<<<<< HEAD
 	printf("Aicha\n");
 
