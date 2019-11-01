@@ -1,9 +1,11 @@
 #include <stdio.h>
-//Carolina Aluá
+
 int main()
 {
 	printf("Olá Mundo!\n");
 
 	printf("dinossauro\n");
+
+	printf("Carolina\n");
 	return 0;
 }
