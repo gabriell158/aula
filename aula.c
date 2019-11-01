@@ -6,7 +6,7 @@ int main()
 	printf("Carvalhoek\n");
 	printf("dinossauro\n");
 	printf("Giovanne\n");
-
+	printf("Coé")
 	teste
 	return 0;
 }
