@@ -6,7 +6,6 @@ int main()
 	printf("Carvalhoek\n");
 	printf("dinossauro\n");
 	printf("Giovanne\n");
-
-	teste
+	printf("Jurandir está em nossos corações!\n"); // Luiz G. Nascimento
 	return 0;
 }
