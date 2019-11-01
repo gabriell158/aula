@@ -39,5 +39,6 @@ int main()
 =======
 >>>>>>>
 	printf("Wagner");
+	printf("Tristão");
 	return 0;
 }
